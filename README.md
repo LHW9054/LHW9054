@@ -1,5 +1,9 @@
 <h1 align="center">Dev_LeeHyunwoo</h1>
 
+<div>
+   [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+</div>
+
 <div align="center"> 
    <h3>🤗목표</h3>
    백엔드에 관심이 많으며, aws를 통해 서버를 구축하는 것이 현재 목표입니다
