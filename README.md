@@ -1,9 +1,8 @@
-https://capsule-render.vercel.app/api?
 <div>
    <h1 align="center">Dev_LeeHyunwoo</h1>
    ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-
-   
+   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+   https://capsule-render.vercel.app/api?
 </div>
 
 <div align="center"> 
