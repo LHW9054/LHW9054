@@ -1,5 +1,4 @@
 <div>
-   <h3 align="center">Welcome to Hyunwoo GitHub</h3>
    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=DEV_LeeHyunWoo%20render&fontSize=90" />
 </div>
 
