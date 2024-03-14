@@ -1,9 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
-
-<div>
-   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
-</div>
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=99ccff&height=200&text=WelCome&animation=fadeIn&fontColor=FFFFFF&fontSize=80&fontAlign=70)
 <div align="center"> 
    <h3>🤗목표</h3>
    백엔드에 관심이 많으며, aws를 통해 서버를 구축하는 것이 현재 목표입니다
