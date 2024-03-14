@@ -8,10 +8,10 @@
 <div align="center"> 
    <h3>📞Contact</h3>
    <a href="https://velog.io/@lhw9054">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
    </a>
-  <a href="lho90554@gmail.com">
-    <img src="https://img.shields.io/badge/lho90554@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  <a href="mailto:lho90554@gmail.com">
+    <img src="https://img.shields.io/badge/lho90554@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
