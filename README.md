@@ -7,6 +7,8 @@
    백엔드에 관심이 많으며, aws를 통해 서버를 구축하는 것이 현재 목표입니다
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center"> 
    <h4>🛠사용언어</h4>
    <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
