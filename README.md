@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=99ccff&height=200&text=WelCome&animation=fadeIn&fontColor=FFFFFF&fontSize=80&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=99ccff&height=200&text=WelCome&animation=fadeIn&fontColor=FFFFFF&fontSize=80&fontAlign=50)
 <div align="center"> 
    <h3>🤗목표</h3>
    백엔드에 관심이 많으며, aws를 통해 서버를 구축하는 것이 현재 목표입니다
