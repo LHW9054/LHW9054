@@ -53,4 +53,4 @@
 </div>
 
    ![LHW9054's GitHub stats](https://github-readme-stats.vercel.app/api?username=LHW9054&show_icons=true&theme=radical)
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LHW9054&layout=compact)
