@@ -47,11 +47,13 @@
 <div align="center"> 
    <h4>📚Studing</h4>
    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+   <br>
+   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
    <img src="https://img.shields.io/badge/Ajax-2c83b9?style=for-the-badge&logo=Ajax&logoColor=white">
+   <br>
+   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
-
+<br><br><br>
    ![LHW9054's GitHub stats](https://github-readme-stats.vercel.app/api?username=LHW9054&show_icons=true&theme=radical)
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LHW9054&layout=compact)
