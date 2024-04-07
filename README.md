@@ -8,7 +8,7 @@
 </div>
 
 <div align="center"> 
-   <h3>📞Contact</h3>
+   <h2>📞Contact</h2>
 
    <a href="https://velog.io/@lhw9054">
       <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
@@ -23,7 +23,7 @@
 
 
 <div align="center"> 
-   <h3>💻Techstack</h3>
+   <h2>💻Techstack</h2>
       <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
       <br>
       <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -34,7 +34,7 @@
 </div>
 
 <div align="center"> 
-   <h4>🛠️Tool</h4>
+   <h2>🛠️Tool</h2>
    <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
    <img src="https://img.shields.io/badge/visualstudio-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white">
    <br>
@@ -46,7 +46,7 @@
 </div>
 
 <div align="center"> 
-   <h4>📚Studing</h4>
+   <h2>📚Studing</h2>
    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
    <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
    <br>
