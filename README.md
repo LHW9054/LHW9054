@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=99ccff&height=200&text=WELCOME!😆&animation=fadeIn&fontColor=FFFFFF&fontSize=80&fontAlign=50)
 
-<div align="center"> 
+<div align="center">
    <h3>🧑🏻‍💻소개</h3>
    <h3>안녕하세요😆</h3>
    <br>
