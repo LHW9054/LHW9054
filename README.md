@@ -1,14 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=99ccff&height=200&text=WELCOME👋&animation=fadeIn&fontColor=FFFFFF&fontSize=80&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=slice&color=99ccff&height=200&text=WELCOME&fontColor=000000&fontSize=70&fontAlign=70&desc=toMyGitHub&descAlign=80&descAlignY=70&rotate=10)
 
 <div align="center">
-  🧑🏻‍💻Introduce Me
-    <h3>불가능을 디버깅하며, 상상을 코드로 빚는다. </h3>
-  <h3>오류 속에서 답을 찾고 그 누구도 본 적 없는 미래를 창조하는 개발자 이현우 입니다.</h3>
+<h1>🧑🏻‍💻Introduce Me</h1>
+  
+불가능을 디버깅하며, 상상을 코드로 빚는다. <br> 오류 속에서 답을 찾고 그 누구도 본 적 없는 미래를 창조하는 개발자 이현우 입니다.
 </div>
 
-
 <div align="center">
-   <h2>📞Contact</h2>
+   <h1>📞Contact</h1>
    <a href="https://velog.io/@lhw9054">
       <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
    </a>
@@ -18,7 +17,7 @@
 </div>
 
 <div align="center"> 
-   <h4>💻Techstack</h4>
+  <h1>💻Techstack</h1>
       <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
       <br>
       <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -29,7 +28,7 @@
 </div>
 
 <div align="center"> 
-   <h4>🛠️Tool</h4>
+   <h1>🛠️Tool</h1>
    <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
    <img src="https://img.shields.io/badge/visualstudio-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white">
    <br>
@@ -41,7 +40,7 @@
 </div>
 
 <div align="center"> 
-   <h4>📚Studing</h4>
+   <h1>📚Studing</h1>
    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
    <br>
 </div>
