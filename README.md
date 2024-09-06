@@ -65,6 +65,4 @@
 
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=lhw9054)](https://velog.io/@lhw9054/posts)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LHW9054&theme=dark&hide_border=true&locale=ko&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" /></a>
-
  <img src="https://capsule-render.vercel.app/api?type=waving&color=99ccff&height=150&section=footer" />
