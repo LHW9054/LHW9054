@@ -1,20 +1,19 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=99ccff&height=200&text=WELCOME!😆&animation=fadeIn&fontColor=FFFFFF&fontSize=80&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=99ccff&height=200&text=WELCOME👋&animation=fadeIn&fontColor=FFFFFF&fontSize=80&fontAlign=50)
 
 <div align="center">
-   <h3>🧑🏻‍💻소개</h3>
-   <h3>안녕하세요😆</h3>
-   <br>
+  🧑🏻‍💻Introduce Me
+    <h3>불가능을 디버깅하며, 상상을 코드로 빚는다. </h3>
+  <h3>오류 속에서 답을 찾고 그 누구도 본 적 없는 미래를 창조하는 개발자 이현우 입니다.</h3>
 </div>
-#ㄴㅁ이라ㅓ
-<br>
+
+
 <div align="center">
-   <h4>📞Contact</h4>
-   <a href="mailto:lho90554@gmail.com">
-      <img src="https://img.shields.io/badge/lho90554@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-   </a>
-   <br>
+   <h2>📞Contact</h2>
    <a href="https://velog.io/@lhw9054">
       <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
+   </a>
+   <a href="mailto:lho90554@gmail.com">
+      <img src="https://img.shields.io/badge/lho90554@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
    </a>
 </div>
 
@@ -62,6 +61,11 @@
    </a>
    
 </div>
+ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLHW9054%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+ </a>
 
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=99ccff&height=150&section=footer" />
-   
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=lhw9054)](https://velog.io/@lhw9054/posts)
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LHW9054&theme=dark&hide_border=true&locale=ko&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" /></a>
+
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=99ccff&height=150&section=footer" />
