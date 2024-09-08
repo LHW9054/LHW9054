@@ -1,4 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=c9f3ff&height=240&text=WELCOME&fontColor=23a0c2&fontSize=75&fontAlign=25&fontAlignY=30&desc=toMyGitHub&descAlign=11&descAlignY=45%&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=c9f3ff&height=240&text=WELCOME&fontColor=23a0c2&fontSize=75&fontAlign=25&fontAlignY=30&desc=toMyGitHub😍&descAlign=11&descAlignY=45%&animation=twinkling)
+
+# Who Am I?🧑‍💻
+<div>
+   <h5>이름 : 이현우</h5>
+   <h5>성별 : 남 Male</h5>
+   <h5>나이 : 1997/01/24 만 27세</h5>
+   <h5>국적 : 대한민국</h5>
+   <h5>언어 : 한국어, 영어, 일본어</h5>
+   <h5>목표 : 풀스택 개발자</h5>
+   <h5>주언어 : Java</h5>
+   <h5>주분야 : 프론트 엔드</h5>
+   <!-- 자격증, 최종학적  -->
+</div>
 
 # 📞Contact
 <div>
@@ -45,12 +58,13 @@
   <h3>📚Studing</h3>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
     <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <br>
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 <br>
+<p><String><h3>Come visit my Velog😍</h3></String></p>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=lhw9054)](https://velog.io/@lhw9054/posts)
 
