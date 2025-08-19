@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=c9f3ff&height=240&text=WELCOME&fontColor=23a0c2&fontSize=75&fontAlign=25&fontAlignY=30&desc=toMyGitHub😍&descAlign=13&descAlignY=45%&animation=twinkling)
 # Who Am I?🧑‍💻
 # 이현우 (Lee Hyunwoo)
-## 기본 정보 (基本情報) 
-
+## 기본 정보 (基本情報)
 | 항목 | 한국어  | 日本語 |
 |------|-----------------|-------------------|
 | **이름** | 이현우 | イ・ヒョンウ |
@@ -10,8 +9,7 @@
 | **나이** | 1997/01/24 (만 27세) | 1997/01/24 (満27歳) |
 | **국적** | 대한민국 | 大韓民国 |
 | **목표** | 풀스택 개발자 | フルスタック開発者 |
- 
---- 
+---
 
 ## 언어 (言語)
 
