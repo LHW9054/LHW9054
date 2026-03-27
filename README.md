@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=c9f3ff&height=240&text=WELCOME&fontColor=23a0c2&fontSize=75&fontAlign=25&fontAlignY=30&desc=toMyGitHub😍&descAlign=13&descAlignY=45%&animation=twinkling)
 # Who Am I?🧑‍💻
-# 이현우 (Lee Hyunwoo)
+# 이현우 (Lee Hyunwoo) 
 ## 기본 정보 (基本情報)
 | 항목 | 한국어  | 日本語 |
 |------|-----------------|-------------------|
